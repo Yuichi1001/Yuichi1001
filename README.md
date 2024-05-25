@@ -1,10 +1,22 @@
 <h1 align="center">Hi 👋, I'm Yuichi</h1>
 <h3 align="center">Currently studying at UCAS </h3>
 
+<p align="center">
+    <a href="https://blog.csdn.net/Qudoudou2020">
+        <img alt="csdn"
+            src="https://img.shields.io/badge/CSDN-red" />
+    </a>
+    <a href="https://yuichi.top/">
+        <img
+            src="https://img.shields.io/badge/my%2520webside-blue" />
+    </a>
+</p>
+
 
 <p align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Yuichi1001"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Yuichi1001?theme=asoul"></a>
 </p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -28,31 +40,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuichi1001/Yuichi1001/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yuichi1001/Yuichi1001/output/github-contribution-grid-snake.svg">
 </picture>
-<!-- 贡献曲线图 -->
-
-## Github contribution
-
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=1321928757&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuichi1001&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
-
-<!-- for beauty 留个空行好看点 -->
-
-<div>&nbsp;</div>
-
-<!-- 3D个人贡献资料图 -->
-
-<picture>
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" /> -->
-  <img src="https://github.com/Yuichi1001/action/blob/main/profile-3d-contrib/profile-green-animate.svg" />
-</picture>
-
-<!-- for beauty 留个空行好看点 -->
