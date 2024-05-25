@@ -8,9 +8,10 @@
     </a>
     <a href="https://yuichi.top/">
         <img
-            src="https://img.shields.io/badge/my%2520webside-blue" />
+            src="https://img.shields.io/badge/my%20webside-blue" />
     </a>
 </p>
+
 
 
 <p align="center">
