@@ -13,10 +13,10 @@
 </p>
 
 
-
 <p align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Yuichi1001?theme=asoul"></a>
+  <a href="http://16.162.47.31:3000"><img src="http://16.162.47.31:3000/get/@:Yuichi1001?theme=asoul"></a>
 </p>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
