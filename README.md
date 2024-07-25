@@ -8,7 +8,7 @@
     </a>
     <a href="https://yuichi.top/">
         <img
-            src="https://img.shields.io/badge/my%20webside-blue" />
+            src="https://img.shields.io/badge/my%20website-blue" />
     </a>
 </p>
 
